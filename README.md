@@ -6,10 +6,9 @@
 
 # Ekibimiz
 
-~Güldali ÖZSOY
+~ [Güldali ÖZSOY](https://github.com/guldali)
 
-~Mehmet AYDIN
-
+~ [Mehmet AYDIN](https://github.com/SouL-H)
 # Özet
 * Harita mühendislerinin en fazla kullandığı formüller için mobil uygulama geliştirildi.
 * Oldukça kullanışlı arayüzü ile bir çok harita mühendisininin formüllerle harcadığı vakiti azaltmayı amaçladık.
